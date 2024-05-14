@@ -1,0 +1,11 @@
+{
+    "Console Log with Label": {
+        "scope": "javascript",
+        "prefix": [
+            "clab",
+            "console-label"
+        ],
+        "body": "console.log(\"${1:varName} :\", ${1:varName})",
+        "description": "Console Log with a label"
+    }
+}
